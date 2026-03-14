@@ -1,0 +1,10 @@
+      ABARROTES 'LA PEQUEÑA'      
+----------------------------------
+PRODUCTO          CANT    TOTAL
+Huevo Blanco 30pz   1       $85.0
+----------------------------------
+SUBTOTAL: $85.00
+IVA (16%): $13.60
+TOTAL A PAGAR: $98.60
+----------------------------------
+     ¡GRACIAS POR SU COMPRA!      
